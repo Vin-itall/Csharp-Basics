@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialReflection", "ConsoleApp1\SerialReflection.csproj", "{6A62C818-18F5-40EF-8CDE-FBD653A29252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A62C818-18F5-40EF-8CDE-FBD653A29252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A62C818-18F5-40EF-8CDE-FBD653A29252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A62C818-18F5-40EF-8CDE-FBD653A29252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A62C818-18F5-40EF-8CDE-FBD653A29252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8759B7F7-D786-4A96-B5D2-326E11EE8573}
+	EndGlobalSection
+EndGlobal
